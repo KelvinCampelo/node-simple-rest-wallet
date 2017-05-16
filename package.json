@@ -1,0 +1,32 @@
+{
+  "name": "node-simple-rest-wallet",
+  "version": "1.0.0",
+  "description": "A simple RESTful API for a personal finance control.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelvinCampelo/node-simple-rest-wallet.git"
+  },
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "wallet",
+    "personal",
+    "finance",
+    "eripi",
+    "node",
+    "node.js",
+    "express",
+    "express.js"
+  ],
+  "author": "Aislan Rafael Rodrigues de Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KelvinCampelo/node-simple-rest-wallet/issues"
+  },
+  "homepage": "https://github.com/KelvinCampelo/node-simple-rest-wallet#readme"
+}
