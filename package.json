@@ -29,5 +29,12 @@
   "bugs": {
     "url": "https://github.com/KelvinCampelo/node-simple-rest-wallet/issues"
   },
-  "homepage": "https://github.com/KelvinCampelo/node-simple-rest-wallet#readme"
+  "homepage": "https://github.com/KelvinCampelo/node-simple-rest-wallet#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-load": "^1.1.15",
+    "express-validator": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
 }
